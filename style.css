@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Hanalei Fill', cursive;
+}
+h1{
+    color: coral;
+}
+.name-highlight{
+    color: crimson;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image:radial-gradient(red, tomato);
+    font-size: medium;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+#about{
+    font-size: 30px;
+    color: brown;
+    text-decoration: dotted;
+}
+.margin-highlighter{
+    color: darkmagenta;
+}
+.background-width img{
+    width: 50%;
+    height: 100px;
+}
+.highlite{
+    color: salmon;
+    background-color: red;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    height: 600px;
+    float: left;
+
+}
+.button-view{
+    font-size: small;
+    text-shadow: 2px;
+    text-align: right;
+    float: right;
+    border: 2px rebeccapurple;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+}
+.latest-light{
+    color: darkturquoise;
+}
+.update-image img{
+    width: 100%;
+
+}
+.update-image{
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+}
+.button-top{
+    text-align: right;
+    border:2px darkturquoise;
+}
+.final-image img{
+    width: 50%;
+}
+.final-image{
+    text-align: center;
+}
+.link-button-update{
+    text-decoration: none;
+    text-align: center;
+    background-color:black;
+    border-radius: 10%;
+    color: blanchedalmond;
+    border: 2px;
+    padding: 10px 20px;
+}
+.icons-added{
+    width: 100%;
+}
+.icons-added{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
